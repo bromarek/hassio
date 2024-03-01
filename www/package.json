@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "marked": "^4.3.0",
+    "marked": "^12.0.0",
     "vanilla-tilt": "^1.8.0"
   }
 }
